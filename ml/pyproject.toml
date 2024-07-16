@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "orion-threathunting"
+version = "0.1.0"
+description = "V2 of the Orion Threat Hunting Platform"
+authors = ["orionhunts-ai <orion@oriondefensiveai.com>"]
+license = "Apache-2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+quart = "^0.19.6"
+sentry-sdk = {extras = ["quart"], version = "^2.9.0"}
+llama-index = "^0.10.55"
+sentence-transformers = "^3.0.1"
+scikit-learn = "^1.5.1"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.2.2"
+black = "^24.4.2"
+flake8 = "^7.1.0"
+isort = "^5.13.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

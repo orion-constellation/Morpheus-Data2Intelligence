@@ -2,6 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.env
+_internal/
+target/
+.DS_Store/
+node_modules/
+__pycache__/
 
 # C extensions
 *.so
