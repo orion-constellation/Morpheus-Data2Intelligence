@@ -8,10 +8,10 @@
 Collect raw data from diverse sources.
 
 
-#Intelligence:
-## Transform raw data into actionable intelligence using Traditional ML and Contemporary LLM technology as well as semantic knowledge sources
+## Intelligence:
+### Transform raw data into actionable intelligence using Traditional ML and Contemporary LLM technology as well as semantic knowledge sources
 
-###Context:
+### Context:
 1. Embed data within its relevant context to enhance understanding and decision-making.
 2. Use data structures such as graphs with additional semantic knowledge embedded in them (Knowledge Graphs)
 3. Find the connections between the M&TRE Attack and Atlas Frameworks
