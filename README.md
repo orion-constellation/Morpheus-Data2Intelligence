@@ -1,8 +1,11 @@
 # D2Intelligence: The Data --> Intelligence Pipeline
 ## Goals:
 
-1. Automate the collection, collation and processing of data, processing --> and delivery of intelligence:
+1. Automate the collection, collation and processing of data, processing --> and delivery of intelligence.
 2. Recognize the distinction between raw data and contextually relevant information.
+3. Grow to become a recognized source of intelligence.
+4. Mitigate bias whether cultural, temporal or geographical.
+5. Use the developed intelligence as data to train defensive models in different verticals.
 
 ## Data:
 Collect raw data from diverse sources.
